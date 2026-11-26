@@ -1,0 +1,21 @@
+{
+  ".gitignore": "9bd408311534350271d86215849fcedd649331ca06b70219a9af3bfc561b46d9",
+  "LICENSE": "26d32ca730663bf5a34cccb7670d9b99f7218dce0144d80e92566fae52367a2b",
+  "README-ja.md": "0868293d44815c6386be31dab11e690ce47351910021ae968dc11af159306e7c",
+  "README.md": "270be9e3482e2a8ba1ca7aefa259dab60467eb0746dc7f2783f986d5aa3e7ad4",
+  "SOURCES.md": "b1abcf49bfe55a0523dfbbadf89b04efacc49600ff73c66b32b6876aec56c2ce",
+  "TEST-RESULTS.txt": "ffbe5619317672e90931969b38eeb0d57e84f042ee9de20ee0a9eb6a46fa23d6",
+  "THIRD-PARTY-NOTICES.md": "8867edbed203c971c128c6bb24482e081df4772e69164f29b0d0bc366edf39c2",
+  "demos/local-preview.sh": "83d28356b4074287271b0d55a5c68c0f82815d818a84b90c692c3b3b7b38af2b",
+  "layouts/make-it-so.json": "5bfb382a2d1c2d44f28a70971c75d272216981d78c9a757e9d3d2812098bebaa",
+  "mods/make-it-so/close.svg": "8e913440bef3bea414d0ab1825574d3d155dab966045ff46987e96bfab3ae865",
+  "mods/make-it-so/fonts/Antonio.ttf": "9e95a2258ecdf3e45c72c5bbea1c4cd350e8f7bebc87c9dba53b29b1890b8903",
+  "mods/make-it-so/fonts/OFL.txt": "ae9a754b006df720bb6721e7b78c04990df734f87195c6033140fceab60bebf6",
+  "mods/make-it-so/main.js": "38c3a73ba87cd78dfeb15c14fc61ccee2c8a162782218e6529e70316e11a8017",
+  "mods/make-it-so/maximize.svg": "709138571279814d7074d1fd206565d7c70025fb72e5e4bc91fae8d3bfb612cd",
+  "mods/make-it-so/minimize.svg": "6beb61dfd43a0110cb390f858ea3d358ed225640cc539c37576fec80da8cb6ec",
+  "mods/make-it-so/mod.json": "e8e0a91d23a0addf19f9f4dab48f597f252a1d44e5063e4d6ae884a88cbf735d",
+  "mods/make-it-so/preview.svg": "9707b0c70a524e73a71b2e794c8bf3c6e8b728591d459f478b9945d442225adc",
+  "mods/make-it-so/restore.svg": "23313e09ed061aeb58958a6d13fe1b82436be00955e495c3529d982e2380471e",
+  "tests/check.mjs": "0db1f915c5bb2eb021122c67069ac335fd63361750512404c895c6b00cdc3b1b"
+}

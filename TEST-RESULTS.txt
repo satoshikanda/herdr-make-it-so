@@ -1,0 +1,25 @@
+PASS layout: native active tab, 4 mod regions, bundled ANSI palette
+PASS no network, files, shell, or executable imports
+PASS empty state: all five parts render
+PASS space switch and crew focus use real ids
+PASS sidebar scrolls, no truncation of large crews
+PASS tabs: select, hidden settled tabs, blocked animation, new menu
+PASS machine picker: closes before creating, offline disabled
+PASS new space: remote selector points to independent mod
+PASS counts, settings, palette, and context menu
+PASS timers only in top/bottom; clock callback updates safely
+PASS local unavailable is not presented as ready
+PASS window controls on Windows/Linux stop dragging and call commands
+PASS local-only ready creates locally without a popup
+PASS remote-only list keeps missing local disabled
+PASS refit font and license are bundled
+PASS sidebar uses measured counts and distinguishes ready hosts
+PASS geometry: compact sidebar and preserved native terminal
+PASS no fictional telemetry or stardate function
+PASS macOS traffic lights use the elbow position and native buttons
+PASS Make it so name and UI asset paths stay consistent
+20 checks passed. Mock tests do NOT validate Herdr GPUI runtime or visual layout.
+The native macOS position [22, 24] was visually confirmed by the issue reporter at 120% on Herdr app 0.1.13. The renamed build was not tested on macOS; 100% remains unverified.
+
+Earlier Linux build (Herdr app 0.1.13/core 0.1.18, 2026-11-05): official mod check passed. Verified live layout changes, tab switches, pane focus, Japanese text and ANSI colors; also tested creating/renaming a space, splitting panes, creating a tab, and retaining state after restart. Tested with keyboard, not mouse. Real AI agents, remote hosts, Windows, narrow windows and long Japanese titles were not verified.
+On the macOS reporter's installation, the button placement took effect only after restarting Herdr.

@@ -1,0 +1,150 @@
+{
+  "id": "root",
+  "type": "column",
+  "titlebar": "none",
+  "traffic_lights": [
+    22,
+    24
+  ],
+  "theme": "graphite",
+  "colors": {
+    "chrome": "#000000",
+    "canvas": "#000000",
+    "surface": "#000000",
+    "popover": "#0a0a12",
+    "raised": "#14141f",
+    "hover": "#ff990022",
+    "selected": "#ff990033",
+    "border": "#333344",
+    "input": "#14141f",
+    "muted": "#cc9966",
+    "dim": "#b08a6a",
+    "accent": "#ff9900",
+    "accent_foreground": "#000000",
+    "solid": "#ff9900",
+    "solid_foreground": "#000000",
+    "working": "#99ccff",
+    "blocked": "#ff5544",
+    "done": "#ffcc66",
+    "idle": "#9999ff",
+    "unknown": "#666688",
+    "background": "#000000",
+    "foreground": "#ffcc99",
+    "selection": "#5a3a00",
+    "ansi0": "#000000",
+    "ansi1": "#ff5544",
+    "ansi2": "#99cc66",
+    "ansi3": "#ffcc66",
+    "ansi4": "#5599ff",
+    "ansi5": "#cc99cc",
+    "ansi6": "#99ccff",
+    "ansi7": "#ffcc99",
+    "ansi8": "#666688",
+    "ansi9": "#ff7766",
+    "ansi10": "#bbdd88",
+    "ansi11": "#ffdd88",
+    "ansi12": "#99bbff",
+    "ansi13": "#ddaadd",
+    "ansi14": "#bbddff",
+    "ansi15": "#ffffff"
+  },
+  "ui_font": "Antonio",
+  "background": "#000000",
+  "children": [
+    {
+      "id": "top",
+      "type": "block",
+      "size": {
+        "px": 104
+      },
+      "window_drag": true,
+      "content": {
+        "mod": "make-it-so",
+        "props": {
+          "part": "top"
+        }
+      }
+    },
+    {
+      "id": "body",
+      "type": "row",
+      "resizable": false,
+      "children": [
+        {
+          "id": "sidebar",
+          "type": "block",
+          "size": {
+            "px": 188
+          },
+          "content": {
+            "mod": "make-it-so",
+            "props": {
+              "part": "side"
+            }
+          }
+        },
+        {
+          "id": "work",
+          "type": "column",
+          "padding": [
+            8,
+            14
+          ],
+          "gap": 8,
+          "resizable": false,
+          "children": [
+            {
+              "id": "tabs",
+              "type": "block",
+              "size": {
+                "px": 32
+              },
+              "content": {
+                "mod": "make-it-so",
+                "props": {
+                  "part": "tabs"
+                }
+              }
+            },
+            {
+              "id": "main",
+              "type": "block",
+              "content": {
+                "tab": "active",
+                "pane": {
+                  "gap": 8,
+                  "radius": 3,
+                  "background": "#000000",
+                  "border": {
+                    "width": 1,
+                    "color": "#4b3b56"
+                  },
+                  "focus": {
+                    "width": 2,
+                    "color": "#ff9900"
+                  },
+                  "lone": true
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bottom",
+      "type": "block",
+      "size": {
+        "px": 58
+      },
+      "content": {
+        "mod": "make-it-so",
+        "props": {
+          "part": "bottom"
+        }
+      }
+    }
+  ],
+  "font": "JetBrains Mono",
+  "preview": "mods/make-it-so/preview.svg"
+}

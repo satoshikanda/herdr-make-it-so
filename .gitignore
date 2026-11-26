@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.error
+*.log
+gpui-kit.d.ts
+jsconfig.json
+.env
+.env.*

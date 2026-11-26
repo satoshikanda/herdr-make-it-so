@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#000"/>
+<path d="M58 0H316V18H226A38 38 0 0 0 188 56V132H0V58A58 58 0 0 1 58 0" fill="#fc9"/>
+<path d="M0 746H188V750A30 30 0 0 0 218 780H310V800H48A48 48 0 0 1 0 752Z" fill="#668"/>
+<g fill="#c9c"><rect x="321" width="58" height="18"/><rect x="0" y="186" width="188" height="34"/><rect x="0" y="244" width="188" height="30"/><rect x="1025" y="124" width="20" height="7"/></g>
+<g fill="#f90"><rect x="384" width="24" height="18"/><rect x="0" y="137" width="188" height="44"/><path d="M202 112H250A16 16 0 0 1 250 144H202Z"/><rect x="1140" y="124" width="34" height="7" rx="4"/></g>
+<rect x="413" width="615" height="18" fill="#668"/><rect x="1033" width="167" height="18" rx="9" fill="#fc9"/>
+<g fill="#6c4f79"><rect y="280" width="16" height="321"/><rect x="389" y="124" width="630" height="7"/><rect x="315" y="780" width="703" height="20"/></g>
+<path d="M273 112H323A16 16 0 0 1 323 144H273Z" fill="#fc9"/>
+<rect x="347" y="112" width="36" height="32" rx="16" fill="#668"/>
+<rect x="202" y="152" width="482" height="582" rx="3" fill="none" stroke="#f90" stroke-width="2"/>
+<rect x="694" y="152" width="480" height="582" rx="3" fill="none" stroke="#6c4f79"/>
+<rect y="606" width="188" height="28" fill="#fc9"/>
+<g font-family="Antonio,Arial Narrow,sans-serif" fill="#000" font-size="17">
+<text x="176" y="84" text-anchor="end">LOCAL COMPUTER</text><text x="176" y="126" text-anchor="end">01 / OPERATIONS</text>
+<text x="12" y="169" font-size="26">01</text><text x="176" y="170" text-anchor="end">BRIDGE</text><text x="176" y="211" text-anchor="end">+ NEW SPACE</text><text x="176" y="267" text-anchor="end">02 / CREW 00</text><text x="176" y="627" text-anchor="end">03 / SESSION INDEX</text>
+<text x="220" y="135">01 BUILD</text><text x="289" y="135">02 LOG</text><text x="360" y="135">+</text>
+</g>
+<g font-family="Antonio,Arial Narrow,sans-serif"><text x="214" y="46" fill="#fc9" font-size="16">Make it so</text><text x="214" y="94" fill="#f90" font-size="42">COMMAND INTERFACE</text><text x="934" y="76" fill="#fc9" font-size="32">01</text><text x="1021" y="76" fill="#c9c" font-size="32">02</text><text x="934" y="96" fill="#c9c" font-size="12">SPACES</text><text x="1021" y="96" fill="#c9c" font-size="12">TABS</text><text x="1051" y="134" fill="#fc9" font-size="14">TERMINAL MATRIX</text><text x="28" y="305" fill="#c9c" font-size="17">NO AGENTS ATTACHED</text><text x="28" y="324" fill="#668" font-size="11">TERMINALS REMAIN AVAILABLE</text><text x="210" y="765" fill="#9cf" font-size="17">00 WORKING</text><text x="308" y="765" fill="#668" font-size="17">00 NEED YOU</text><text x="412" y="765" fill="#fc6" font-size="17">00 DONE</text><text x="492" y="765" fill="#c9c" font-size="17">01 HOSTS</text></g>
+<g font-family="monospace" font-size="17" fill="#fc9"><text x="221" y="185">$ your terminal</text><text x="714" y="185">$ another terminal</text><text x="221" y="708" fill="#668" font-size="12">CONCEPT PREVIEW / SAMPLE SESSION VALUES</text></g>
+</svg>
