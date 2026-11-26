@@ -1,6 +1,6 @@
 # Make it so
 
-An unofficial command-console layout for Herdr. Peach and lilac rails wrap a black workspace, with a live overview of spaces and crew beside the regular terminal panes.
+An unofficial Herdr layout inspired by Star Trek’s LCARS. Peach and lilac rails wrap a black workspace, with a live overview of spaces and crew beside the regular terminal panes.
 
 ![Make it so concept preview with sample sessions](preview.png)
 
